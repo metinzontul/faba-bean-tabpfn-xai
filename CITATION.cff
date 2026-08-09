@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite it as below."
+title: "Explainable TabPFN-Based Machine Learning for Single-Plant Yield Estimation and Trait Prioritization in Faba Bean (Vicia faba L.)"
+# The associated article is currently under peer review.
+authors:
+  - family-names: Yelmen
+    given-names: İlkay
+# The repository is hosted on the GitHub account of Metin Zontul on behalf of
+# the author team. Authorship of the code belongs to İlkay Yelmen.
+# After publication, add the repository URL and the article DOI here, e.g.:
+#   repository-code: "https://github.com/<account>/<repository>"
+#   doi: "10.3390/agronomy..."
+keywords:
+  - faba bean
+  - Vicia faba
+  - TabPFN
+  - tabular foundation model
+  - explainable artificial intelligence
+  - SHAP
+  - yield estimation
+  - trait prioritization
+license: MIT

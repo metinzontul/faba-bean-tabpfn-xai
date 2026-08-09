@@ -1,0 +1,20 @@
+# Python 3.13.0
+numpy==2.3.3
+pandas==2.3.2
+scikit-learn==1.7.2
+scipy==1.16.2
+matplotlib==3.10.6
+seaborn==0.13.2
+shap==0.51.0
+xgboost==3.1.2
+catboost==1.2.10
+lightgbm==4.6.0
+optuna==4.8.0
+tabpfn==7.1.1
+
+# PyTorch is required by TabPFN. The reported results were produced with the
+# CUDA 11.8 build (torch 2.7.1+cu118), installed from the PyTorch index:
+#   pip install torch==2.7.1+cu118 --index-url https://download.pytorch.org/whl/cu118
+# On a machine without a GPU the plain CPU build below is sufficient; TabPFN
+# falls back to the CPU automatically.
+torch==2.7.1
