@@ -1,5 +1,4 @@
-﻿# Explainable TabPFN-Based Machine Learning for Faba Bean Yield Estimation
-
+﻿# Explainable TabPFN-Based Machine Learning for Single-Plant Yield Estimation and Trait Prioritization in Faba Bean (Vicia faba L.)
 This repository contains the official data preprocessing, hyperparameter
 optimization, model training, and explainability (XAI) scripts for the research
 article:
@@ -7,8 +6,7 @@ article:
 **"Explainable TabPFN-Based Machine Learning for Single-Plant Yield Estimation
 and Trait Prioritization in Faba Bean (*Vicia faba* L.)"**
 
-> **Status:** the associated article is currently under peer review. The
-> contents of this repository may change during revision.
+> **Status:** the associated article is currently published.
 
 **Code author:** İlkay Yelmen
 
