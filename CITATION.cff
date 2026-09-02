@@ -1,15 +1,52 @@
 cff-version: 1.2.0
-message: "If you use this code or dataset, please cite it as below."
+message: "If you use this code or dataset, please cite the article below."
 title: "Explainable TabPFN-Based Machine Learning for Single-Plant Yield Estimation and Trait Prioritization in Faba Bean (Vicia faba L.)"
-# The associated article is currently under peer review.
 authors:
+  - family-names: Çilesiz
+    given-names: Yeter
   - family-names: Yelmen
     given-names: İlkay
+    orcid: "https://orcid.org/0000-0002-1684-9717"
+  - family-names: Karakoy
+    given-names: Tolga
+  - family-names: Bakır
+    given-names: Halit
+  - family-names: Karateke
+    given-names: Seda
+    orcid: "https://orcid.org/0000-0003-1219-0115"
+  - family-names: Zontul
+    given-names: Metin
+    orcid: "https://orcid.org/0000-0002-7557-2981"
 # The repository is hosted on the GitHub account of Metin Zontul on behalf of
 # the author team. Authorship of the code belongs to İlkay Yelmen.
-# After publication, add the repository URL and the article DOI here, e.g.:
-#   repository-code: "https://github.com/<account>/<repository>"
-#   doi: "10.3390/agronomy..."
+doi: "10.3390/agronomy16171653"
+preferred-citation:
+  type: article
+  title: "Explainable TabPFN-Based Machine Learning for Single-Plant Yield Estimation and Trait Prioritization in Faba Bean (Vicia faba L.)"
+  authors:
+    - family-names: Çilesiz
+      given-names: Yeter
+    - family-names: Yelmen
+      given-names: İlkay
+      orcid: "https://orcid.org/0000-0002-1684-9717"
+    - family-names: Karakoy
+      given-names: Tolga
+    - family-names: Bakır
+      given-names: Halit
+    - family-names: Karateke
+      given-names: Seda
+      orcid: "https://orcid.org/0000-0003-1219-0115"
+    - family-names: Zontul
+      given-names: Metin
+      orcid: "https://orcid.org/0000-0002-7557-2981"
+  journal: "Agronomy"
+  year: 2026
+  month: 8
+  volume: 16
+  issue: 17
+  number: 1653
+  doi: "10.3390/agronomy16171653"
+  url: "https://doi.org/10.3390/agronomy16171653"
 keywords:
   - faba bean
   - Vicia faba
